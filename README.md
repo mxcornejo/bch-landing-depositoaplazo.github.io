@@ -1,2 +1,3 @@
-# bch-landing-depositoaplazo.github.io
-repo de prueba personal
+# bch-landing-depositoaplazo
+
+Repo personal landing DAP
